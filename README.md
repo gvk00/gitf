@@ -1,2 +1,2 @@
 # gitf
-this is for git course
+this is for git course learn
